@@ -46,7 +46,7 @@
   transition: height 0.5s ease;
 }
 
-#sb_instagram a { border-bottom: 0 !important; }
+/*#sb_instagram a { border-bottom: 0 !important; }*/
 
 /* Items */
 #sb_instagram #sbi_images .sbi_item{
