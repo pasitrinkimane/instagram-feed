@@ -1,8 +1,9 @@
 {
-    "name": "newcool/instagram-feed",
-    "description": "instagram-feed - 4.1.5",
-    "type": "wordpress-plugin",
-    "require": {
-        "php": "^7.2"
-    }
+    "name": "smashballoon/instagram-feed",
+    "autoload": {
+        "psr-4": {
+            "InstagramFeed\\": "inc/"
+        }
+    },
+    "require": {}
 }
